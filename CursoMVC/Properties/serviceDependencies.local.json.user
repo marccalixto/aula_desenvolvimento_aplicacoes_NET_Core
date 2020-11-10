@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-11-10T03:24:25.889244Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-11-10T02:34:53.1466193Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "7e65e961-527b-450b-a16d-43931030ecf9"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "Estudos"
+    }
+  }
+}

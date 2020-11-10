@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/cursomvcdiodbserver/databases/CursoMVC_db",
+      "type": "mssql.azure",
+      "connectionId": "DefaultConnection",
+      "secretStore": "LocalSecretsFile"
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    }
+  }
+}

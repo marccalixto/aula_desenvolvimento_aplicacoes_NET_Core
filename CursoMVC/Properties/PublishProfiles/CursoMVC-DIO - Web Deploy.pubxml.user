@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWn5kjDPcXE691ClacWvWxgAAAAACAAAAAAAQZgAAAAEAACAAAAB12YfAaGQHfSaAvLiu22V9INv0Pc+aBXqWsssBcqEQGwAAAAAOgAAAAAIAACAAAADKMgTYyZoJXevi7J/a4yplhZJp2rvVgXXSx+6Rk/pZZYAAAAALc5Zuytp9dE4ZlVonjuVPwYpSW9R7VAvsyD5tf1N16x3d2oK+UBTr5nqIFu1WzE33vmmGvzSI/dpl4+WUDuKrZoA4V+ZRJkH18YrZyM0+t7GhdtNcufz4yE3/h6Ybg549mpV0vSrQQ1+bQ1Fre0ye5koFypti9aw9OdtQuRMixUAAAABXtzA6C93Z+4XOirSssgDFGOzd3KVafSUo8kpjJcCA/ITeI6pXR90YTZ9krM5ZUXhTscJT8YI2eVuPbSt6F8JC</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:cursomvcdiodbserver.database.windows.net,1433%3bInitial Catalog=CursoMVC_db%3bUser Id=cursomvc%40cursomvcdiodbserver%3bPassword=Curso_mvc%241</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
